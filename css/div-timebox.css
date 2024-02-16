@@ -1,0 +1,11 @@
+#timebox{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    height: 150px;
+    width: 200px;
+    background: rgba(255, 255, 255, 0.168);
+    border: 2px solid;
+    border-color: rgba(255, 255, 255, 0.55);
+    display: none;
+}

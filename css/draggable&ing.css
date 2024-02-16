@@ -1,0 +1,8 @@
+.draggable{
+        cursor: grab;
+        opacity: 0.5;
+        border: 3px dashed gray;
+    }
+    .dragging{
+        cursor: grabbing;
+    }

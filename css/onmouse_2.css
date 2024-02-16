@@ -1,0 +1,15 @@
+.onmouse_2{/* 基本框架 */
+    width: 110px;
+    height: 110px;
+    text-align: center;
+     }
+    .onmouse_2:hover {/* 鼠标悬停 */
+        border: 2px solid;
+        border-color: rgba(255, 255, 255, 0.55);
+        background-color: rgba(255, 255, 255, 0.143);
+    }
+    .onmouse_2:active{/* 鼠标点击 */
+        border: 2px solid;
+        border-color: rgba(255, 255, 255, 0.55);
+        background-color: rgba(255, 255, 255, 0.277);
+    }

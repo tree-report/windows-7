@@ -1,0 +1,16 @@
+.onmouse_4{
+    text-align: center;
+    border: 2px solid;
+    border-color: rgba(255, 255, 255, 0.55);
+    border-radius: 8px;
+}   
+.onmouse_4:hover {/* 鼠标悬停 */
+    border: 2px solid;
+    border-color: rgba(255, 255, 255, 0.55);
+    background-color: rgba(255, 255, 255, 0.143);
+}
+.onmouse_4:active{/* 鼠标点击 */
+    border: 2px solid;
+    border-color: rgba(255, 255, 255, 0.55);
+    background-color: rgba(255, 255, 255, 0.277);
+}
