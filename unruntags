@@ -1,0 +1,14 @@
+<div hidden id="internet" style="width: 50px;height: 50px;float: right;text-align: center;text-shadow: #000000 1px 3px 2px" title="没有可用网络" class="onmouse_2">
+                <div style="width: 50px;height: 10px;"></div>
+            <img id="网络" src="image/icon/offline.png" style="height:  30px;width: 30px;">
+            </div><!-- API网络辨别太难了，所以用‘无法使用’来代替 -->
+            
+
+            <div hidden id="windows" class="window_show" draggable="true"><!-- div窗口，已弃用 -->
+                <div id="标题" style="height: 40px;width: 900px;float: left;color: rgba(255, 255, 255, 0.126);border: 2px solid;border-color: rgba(255, 255, 255, 0.55);border-radius: 10px;text-align: left;">
+                    <p style="text-shadow: #000000 1px 3px 2px;color: #ffffff;font-family: system-ui;">窗口</p>
+                </div>
+                <div id="最小" style="height: 40px;width: 100px;border: 2px solid;border-color: rgba(255, 255, 255, 0.55);border-radius: 10px;float: right"></div>
+                <div id="删除" style="height: 40px;width: 100px;border: 2px solid;border-color: rgba(255, 255, 255, 0.55);border-radius: 10px;float: right"></div>
+                <div id="内容" style="background-color: rgba(255, 255, 255, 0.156); height: 747px;width: 1197px;border: 2px solid;border-color: rgba(255, 255, 255, 0.55);border-radius: 10px;"div></div>
+            </div>
